@@ -5,7 +5,7 @@ The version on onedrive can be hard to read and literally uses n - 1 as line num
     | {Assume: }
 (2) |   | Universal quantifier for y [P(y)]|
     |   | {Assume: }
-(3) |   |   | var y;|
+(3) |   |   | var z;|
     |   |   | {Universal-elim on (1) and (3): }
 (4) |   |   | P(y) --> Q(y)
     |   |   | {Universal-elim on (2) and (3): }
